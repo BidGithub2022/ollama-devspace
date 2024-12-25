@@ -8,3 +8,8 @@ kubectl exec -it workspacede5ada8325014cd5-8c69c9c5d-k4km5 -c ollama -- /bin/bas
 ollama run llama3.2
 
 ![Screen Shot 2024-12-25 at 2 10 54 PM](https://github.com/user-attachments/assets/1c5d7cbc-6774-4ff3-9c1f-dd8dcbb72b21)
+
+
+https://developers.redhat.com/articles/2024/08/12/integrate-private-ai-coding-assistant-ollama#
+
+![Screen Shot 2024-12-25 at 3 14 06 PM](https://github.com/user-attachments/assets/bc763f13-a329-420f-9939-0e38a088e10e)
