@@ -13,3 +13,5 @@ ollama run llama3.2
 https://developers.redhat.com/articles/2024/08/12/integrate-private-ai-coding-assistant-ollama#
 
 ![Screen Shot 2024-12-25 at 3 14 06 PM](https://github.com/user-attachments/assets/bc763f13-a329-420f-9939-0e38a088e10e)
+
+![Screen Shot 2024-12-25 at 3 17 40 PM](https://github.com/user-attachments/assets/92492601-4345-45e0-8ca3-6cd64a282c3a)
